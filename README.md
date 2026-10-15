@@ -29,6 +29,7 @@ I spent two years at Deloitte working with large financial datasets — reconcil
 - [AI Accountability: Build Responsible and Transparent Systems](https://www.linkedin.com/learning/certificates/2cef03d8682c4a39fe9d65f2fba90673d40c7d8b519d3c85724009d423d7d6aa/) — LinkedIn, Aug 2026
 - [Generative AI: From Prompts to Partnership](https://www.linkedin.com/learning/generative-ai-from-prompts-to-partnership/generative-ai-moving-from-tool-to-teammate?u=56671577) — LinkedIn, Oct 2026
 - [Your Top AI Questions Answered: AI Literacy for Everyone](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone) — LinkedIn, Oct 2026
+- [Everyday AI Concepts](https://www.linkedin.com/learning/everyday-ai-concepts) — LinkedIn, Oct 2026
 
 
 
