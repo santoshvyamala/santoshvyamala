@@ -4,7 +4,7 @@
 
 
 🎓 MS in Business Analytics @ Adelphi University (May 2027) · 📊 Aspiring Data Analyst
-📍 Nassau County, NY · 💼 Ex-Deloitte (Tax Consultant I → II, Bravo Award Dec 2024)
+📍 Nassau County, NY · 💼 Ex-Deloitte (Tax Consultant I → II, Spot Award Dec 2024)
 
 
 
