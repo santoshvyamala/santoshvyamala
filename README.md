@@ -4,7 +4,7 @@
 
 
 🎓 MS in Business Analytics @ Adelphi University (May 2027) · 📊 Aspiring Data Analyst
-📍 Nassau County, NY · 💼 Ex-Deloitte (Tax Consultant I → II, Spot Award Dec 2024)
+📍 Nassau County, NY · 💼 Ex-Deloitte (Tax Consultant I → II, Bravo Award Dec 2024)
 
 
 
@@ -28,6 +28,7 @@ I spent two years at Deloitte working with large financial datasets — reconcil
 - [Leading Responsible AI in Organizations](https://www.linkedin.com/learning/certificates/6c37bf5b1139762f36bd0b0f4bfc1052a94580f2df44858443a4e3c5aeae95e9/) — LinkedIn, Aug 2026
 - [AI Accountability: Build Responsible and Transparent Systems](https://www.linkedin.com/learning/certificates/2cef03d8682c4a39fe9d65f2fba90673d40c7d8b519d3c85724009d423d7d6aa/) — LinkedIn, Aug 2026
 - [Generative AI: From Prompts to Partnership](https://www.linkedin.com/learning/generative-ai-from-prompts-to-partnership/generative-ai-moving-from-tool-to-teammate?u=56671577) — LinkedIn, Oct 2026
+- [Your Top AI Questions Answered: AI Literacy for Everyone](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone) — LinkedIn, Oct 2026
 
 
 
@@ -40,4 +41,3 @@ _Building my portfolio — check back soon._
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/santosh-vyamala-585868192)
-
